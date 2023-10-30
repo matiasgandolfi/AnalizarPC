@@ -1,0 +1,13 @@
+C:\GIt\AnalizarPC\obj\Debug\AnalizarPC.vbproj.AssemblyReference.cache
+C:\GIt\AnalizarPC\obj\Debug\AnalizarPC.vbproj.SuggestedBindingRedirects.cache
+C:\GIt\AnalizarPC\obj\Debug\AnalizarPC.frmAnalizarPC.resources
+C:\GIt\AnalizarPC\obj\Debug\AnalizarPC.Resources.resources
+C:\GIt\AnalizarPC\obj\Debug\AnalizarPC.vbproj.GenerateResource.cache
+C:\GIt\AnalizarPC\obj\Debug\AnalizarPC.vbproj.CoreCompileInputs.cache
+C:\GIt\AnalizarPC\bin\Debug\AnalizarPC.exe.config
+C:\GIt\AnalizarPC\bin\Debug\AnalizarPC.exe
+C:\GIt\AnalizarPC\bin\Debug\AnalizarPC.pdb
+C:\GIt\AnalizarPC\bin\Debug\AnalizarPC.xml
+C:\GIt\AnalizarPC\obj\Debug\AnalizarPC.exe
+C:\GIt\AnalizarPC\obj\Debug\AnalizarPC.xml
+C:\GIt\AnalizarPC\obj\Debug\AnalizarPC.pdb
